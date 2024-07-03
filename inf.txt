@@ -1,0 +1,1 @@
+npm init -y //Criar novo projeto node
