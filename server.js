@@ -5,8 +5,8 @@ const PORT = 3000;
 
 const rotas = {
     "/": "msg",
-    "/livros": "rota 1",
-    "/autores": "rota 2"
+    "/route1": "rota 1",
+    "/route2": "rota 2"
 };
 
 const server = http.createServer((req, res) => {
